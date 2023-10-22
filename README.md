@@ -1,4 +1,4 @@
-# tic-tac-toe-minimax-
+# tic-tac-toe-minimax
 My Tic-tac-toe implementation, which always plays optimal moves based on the Minimax algorithm
 
 # Description
